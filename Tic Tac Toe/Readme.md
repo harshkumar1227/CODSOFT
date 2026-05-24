@@ -16,7 +16,7 @@ An unbeatable AI-powered Tic Tac Toe game using Minimax Algorithm.
 ## Screenshots
 
 ### Home Screen
-![Home](Screenshots/home.png)
+![Home](Task4-TicTacToeAI/screenshots/home.png)
 
 ### Gameplay
 ![Gameplay](screenshots/gameplay.png)
